@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{A8F886BA-8EE5-EFDC-8A90-5CABA5DAAFB1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Shader/BlurShader.shader">
+    <Files>
+      <File FileName="Assets/Scripts/ColliderTest.cs" Line="11" Column="34" />
+      <File FileName="Assets/Scripts/StatusController.cs" Line="7" Column="32" />
+      <File FileName="Assets/Scripts/Notice/NoticePicture.cs" Line="25" Column="34" />
+      <File FileName="Assets/Scripts/gameControl/GameController.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scripts/Notice/NoticeMusic.cs" Line="93" Column="27" />
+      <File FileName="Assets/Scripts/gameControl/HorseController.cs" Line="15" Column="58" />
+      <File FileName="Assets/Scripts/Notice/Notice.cs" Line="96" Column="27" />
+      <File FileName="Assets/Resources/Shader/BlurShader.shader" Line="20" Column="29" />
+      <File FileName="Assets/ImageEffectFilters/Shaders/ImageEffectFilter.shader" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="repair" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ImageEffectFilters" expanded="True">
+                <Node name="Shaders" expanded="True" />
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="Shader" expanded="True">
+                  <Node name="BlurShader.shader" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="gameControl" expanded="True" />
+                <Node name="Notice" expanded="True" />
+                <Node name="Transition" expanded="True" />
+              </Node>
+              <Node name="Unity UI Samples" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6cd5ca00-105f-4784-9883-35939110d1f0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
